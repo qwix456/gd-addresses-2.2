@@ -15,6 +15,7 @@ PlayLayer::resetLevel = base + 0x2e42b0
 PlayLayer::togglePracticeMode = base + 0x2e4eb0
 PlayLayer::onEnterTransitionDidFinish = base + 0x2e58e0
 PlayLayer::onExit = base + 0x2e5910
+PlayLayer::onQuit = base + 0x2e5650
 PlayLayer::toggleMusicInPractice = base + 0x2dfcf0
 PlayLayer::toggleInfoLabel = base + 0x2e0700
 PlayLayer::toggleProgressBar = base + 0x2dfb90
